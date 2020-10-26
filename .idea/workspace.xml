@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87e4ffce-f31a-415d-9aed-264acc927f20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jQ5fjMkcGCwWJWN6AwV3WSl1NU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringsecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringSecurity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zekerijah.springsecurity.SpringsecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87e4ffce-f31a-415d-9aed-264acc927f20" name="Default Changelist" comment="" />
+      <created>1603723579175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603723579175</updated>
+      <workItem from="1603723583202" duration="4065000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1603725646246">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="453" y="105" key="#com.intellij.ide.util.MemberChooser/0.23.1280.737@0.23.1280.737" timestamp="1603725646246" />
+    <state width="1238" height="195" key="GridCell.Tab.0.bottom" timestamp="1603727388010">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="195" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1603727388010" />
+    <state width="1238" height="195" key="GridCell.Tab.0.center" timestamp="1603727388008">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="195" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1603727388008" />
+    <state width="1238" height="195" key="GridCell.Tab.0.left" timestamp="1603727388007">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="195" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1603727388007" />
+    <state width="1238" height="195" key="GridCell.Tab.0.right" timestamp="1603727388009">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="195" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1603727388009" />
+    <state width="1238" height="195" key="GridCell.Tab.1.bottom" timestamp="1603727388014">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="195" key="GridCell.Tab.1.bottom/0.23.1280.737@0.23.1280.737" timestamp="1603727388014" />
+    <state width="1238" height="195" key="GridCell.Tab.1.center" timestamp="1603727388012">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="195" key="GridCell.Tab.1.center/0.23.1280.737@0.23.1280.737" timestamp="1603727388012" />
+    <state width="1238" height="195" key="GridCell.Tab.1.left" timestamp="1603727388011">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="195" key="GridCell.Tab.1.left/0.23.1280.737@0.23.1280.737" timestamp="1603727388011" />
+    <state width="1238" height="195" key="GridCell.Tab.1.right" timestamp="1603727388013">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1238" height="195" key="GridCell.Tab.1.right/0.23.1280.737@0.23.1280.737" timestamp="1603727388013" />
+    <state x="305" y="84" width="670" height="676" key="search.everywhere.popup" timestamp="1603724098692">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="305" y="84" width="670" height="676" key="search.everywhere.popup/0.23.1280.737@0.23.1280.737" timestamp="1603724098692" />
+  </component>
+</project>
