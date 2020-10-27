@@ -10,4 +10,10 @@ public class HomeController {
     public String goHome(){
         return "index";
     }
+
+    @RequestMapping("/login")
+    public String login() { return "login"; }
+
+    @RequestMapping("/logout-success")
+    public String logout() { return "logout"; }
 }
